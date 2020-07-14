@@ -1,0 +1,16 @@
+{
+    "name": "sam/handy_chat",
+    "description": "PHP web chat app using firebase",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Muhammad Ahtisham",
+            "email": "mahtisham404@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "5.x-dev"
+    }
+}
